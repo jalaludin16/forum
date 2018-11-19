@@ -1,0 +1,35 @@
+
+.meta {
+    margin-bottom: 12px;
+}
+
+.content {
+    margin-bottom: 10px;
+}
+.count {
+    float: right;
+    margin-bottom: 12px;
+}
+
+.thread {
+    margin-bottom: 15px;
+    border-bottom: solid #000000;
+}
+
+.row {
+    margin: 30px;
+}
+
+.btn {
+    float: right;
+    margin-bottom: 8px;
+}
+
+.action {
+    float: left;
+}
+
+.paginate {
+    float: right;
+}
+
